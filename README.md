@@ -1,4 +1,4 @@
-# React-Native todo-01
+# React-Native rn-self-post-01
 react-native simple self-post application
 
 ### Technologes Stack
